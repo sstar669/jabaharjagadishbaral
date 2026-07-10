@@ -134,9 +134,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KanhaBaral/KanhaBaral/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KanhaBaral/KanhaBaral/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake contribution game" src="https://raw.githubusercontent.com/KanhaBaral/KanhaBaral/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kjabaharjagadishbaral/jabaharjagadishbaral/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jabaharjagadishbaral/jabaharjagadishbaral/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake contribution game" src="https://raw.githubusercontent.com/jabaharjagadishbaral/jabaharjagadishbaral/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </p>
 
@@ -147,7 +147,7 @@
 ## <a id="connect"></a>Connect
 
 <p align="center">
-  <a href="https://github.com/KanhaBaral">
+  <a href="https://github.com/jabaharjagadishbaral">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
   <a href="https://www.linkedin.com/in/jabaharjagadishbaral">
