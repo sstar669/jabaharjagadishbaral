@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KanhaBaral&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=jabaharjagadishbaral&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="views"/>
   <img src="https://img.shields.io/github/followers/KanhaBaral?style=for-the-badge&logo=github&label=Followers&color=1f6feb" alt="followers"/>
   <img src="https://img.shields.io/github/stars/KanhaBaral?style=for-the-badge&logo=github&label=Total%20Stars&color=f59e0b" alt="stars"/>
   <img src="https://img.shields.io/badge/Profile-Advanced%20Mode-8b5cf6?style=for-the-badge" alt="advanced"/>
@@ -147,7 +147,7 @@
 ## <a id="connect"></a>Connect
 
 <p align="center">
-  <a href="https://github.com/KanhaBaral">
+  <a href="https://github.com/jabaharjagadishbaral">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
   <a href="https://www.linkedin.com/in/jabaharjagadishbaral">
