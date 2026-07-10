@@ -51,12 +51,12 @@
 
   </td>
     <td width="44%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KanhaBaral&theme=tokyonight" alt="profile details"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jabaharjagadishbaral&theme=tokyonight" alt="profile details"/>
     </td>
   </tr>
 </table>
 
-- All of my projects are available at: <a href="https://github.com/KanhaBaral">github.com/KanhaBaral</a>
+- All of my projects are available at: <a href="https://github.com/jabaharjagadishbaral">github.com/KanhaBaral</a>
 - You can ask me about full-stack development, Python scripting, data dashboards, JavaScript, React, and system design.
 - How to reach me: <a href="https://www.linkedin.com/in/jabaharjagadishbaral">LinkedIn — Jabahar Jagadish Baral</a>
 
@@ -91,22 +91,22 @@
 ## <a id="dashboard"></a>Live Dashboard
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KanhaBaral&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=KanhaBaral&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jabaharjagadishbaral&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=jabaharjagadishbaral&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanhaBaral&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KanhaBaral&theme=tokyonight&utcOffset=5.5" alt="productive time"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabaharjagadishbaral&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jabaharjagadishbaral&theme=tokyonight&utcOffset=5.5" alt="productive time"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KanhaBaral&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jabaharjagadishbaral&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KanhaBaral&theme=tokyonight" alt="repos per language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KanhaBaral&theme=tokyonight" alt="most commit language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?usernamejabaharjagadishbaral&theme=tokyonight" alt="repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jabaharjagadishbaral&theme=tokyonight" alt="most commit language"/>
 </p>
 
 ---
@@ -114,8 +114,8 @@
 ## Highlights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KanhaBaral&theme=tokyonight" alt="stats card"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KanhaBaral&theme=tokyonight" alt="profile card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jabaharjagadishbaral&theme=tokyonight" alt="stats card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jabaharjagadishbaral&theme=tokyonight" alt="profile card"/>
 </p>
 
 <p align="center">
